@@ -305,10 +305,21 @@ This makes the evaluation more realistic for actual educational use.
 
 ---
 
-## How to Use This Repository
+## Paper Citation
 
-### 1. Clone the repository
+**Paper citation details will be added soon.**
 
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+A full BibTeX entry and formal citation format will be included after the paper is finalized or published.
+
+---
+
+## Textbook Source
+
+The SSC textbook materials used in this project are based on publicly available resources from **NCTB Bangladesh**.
+
+**NCTB textbook source:**  
+[https://nctb.gov.bd/pages/static-pages/6922dd8a933eb65569e15641](https://nctb.gov.bd/pages/static-pages/6922dd8a933eb65569e15641)
+
+Please refer to the official NCTB source for textbook access, publication details, and distribution information.
+
+---
